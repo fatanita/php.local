@@ -1,5 +1,6 @@
 <?php
  include_once  "functions.php";
+ echo "hello functions.";
 $arr=array(
     'mellat'=>array('merchant'=>'12345',
         'username'=>'5dst',
