@@ -1,4 +1,6 @@
-<?php include "functions.php";?>
+<?php include "functions.php";
+echo "ok";
+?>
 <!doctype html>
 <html lang="en">
 <head>
